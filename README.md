@@ -7,4 +7,4 @@ Actualmente estoy buscando algunas ideas para proyectos pero ya tengo unos cuant
 En el tema de la web soy totalmente full-stack pero planeo aprender más sobre ciberseguridad en un futuro.
 Aunque tambien me encanta diseñar con figma tambien administro servidores propios.
 
-Pondria en el readme cosas guapas pa decorar y llamar la antencion pero ahora mismo me he lesionado el brazo y estoy escribiendo esto con mi mano mala jaja salu2.
+Pondria en el readme cosas guapas pa decorar y llamar la antencion pero lo haré en un futuro ya que ahora mismo me he lesionado el brazo y estoy escribiendo esto con mi mano mala jaja salu2.
