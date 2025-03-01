@@ -1,6 +1,6 @@
 # pico190_
 
-Hola :) soy un desarrollador web experto en JS (react) y que actualmente está aprendiendo kotlin (para hacer apps de mobil).
+Hola :) soy un desarrollador web experto en JS (react, svelte, astro, y typescript aunque no lo uso tanto) y que actualmente está aprendiendo kotlin (para hacer apps de mobil).
 He estado actualmente trabajando mucho en proyectos de código cerrado pero planeo hacer codigo abierto en un futuro.
 
 Actualmente estoy buscando algunas ideas para proyectos pero ya tengo unos cuantos que estoy desarrollando.
