@@ -7,10 +7,12 @@ Tengo que escribir un readme jaja (lo voy a hacer en español)
 - **PHP**
 - Express/Websockets con **JS**
 - **Python** (Django, Flask)
+- **Kotlin**/**Java** para Apps de móbil (no sabía en que categoría poner esto)
 
 ### Frontend:
 - **Astro**
 - **React**
+- **React NATIVE**
 - **Svelte**
 - **Tailwind** (últimamente uso mucho **HeroUI**)
 - **HTML** (no es un lenguaje de programación 🤡) y **JS vanilla** cuando se va la luz en toda España y no va `npx create vite@latest`
@@ -27,4 +29,9 @@ Tengo que escribir un readme jaja (lo voy a hacer en español)
 Todo puro PHP y SQL
 
 También tengo algunos proyectos abandonados...
+
+### Quién soy
+Soy un desarrollador fullstack menor de edad (ESO) anónimo que crea proyectos cuando no tiene que estudiar jajajaja.
+
+Me gustan las patatas.
 
