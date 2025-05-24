@@ -25,6 +25,8 @@ Tengo que escribir un readme jaja (lo voy a hacer en español)
 -  **Youtubed**: Descarga canciones de youtube (y pronto de spotify): [https://youtubedd.vercel.app/](https://youtubedd.vercel.app/)
 > Hecho usando flask (para poder usar youtube_dl), php, y React con HeroUI
 
+- **BetterWhatsapp**: Cliente de Whatsapp para linux (pronto en windows) con tema personalizado entre otras cosas. [Descargar](https://github.com/pico190/betterwhatsapp/releases/tag/v1.4.5) | [Ver información](https://github.com/pico190/betterwhatsapp)
+
 -  **ShortURL**: Acortador de URLs (típico): [https://short.clienturl.net/](https://short.clienturl.net/)
 Todo puro PHP y SQL
 
