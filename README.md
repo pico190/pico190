@@ -1,12 +1,30 @@
-# pico190_
+# Un README
 
-Hola, soy pico y me da mucha pereza escribir un readme
+Tengo que escribir un readme jaja (lo voy a hacer en español)
 
-Soy un desarrollador web experto en **JS y TS** (react, svelte, astro, remix, next).
-He estado actualmente trabajando mucho en proyectos de código cerrado pero **planeo hacer codigo abierto en un futuro**.
+## Qué cosas sé
+### BackEnd:
+- **PHP**
+- Express/Websockets con **JS**
+- **Python** (Django, Flask)
 
-Actualmente estoy buscando algunas ideas para proyectos pero ya tengo unos cuantos que estoy desarrollando.
-En el tema de la web soy totalmente full-stack pero planeo aprender más sobre ciberseguridad en un futuro.
-Aunque tambien me encanta diseñar con figma tambien administro servidores propios.
+### Frontend:
+- **Astro**
+- **React**
+- **Svelte**
+- **Tailwind** (últimamente uso mucho **HeroUI**)
+- **HTML** (no es un lenguaje de programación 🤡) y **JS vanilla** cuando se va la luz en toda España y no va `npx create vite@latest`
+- **Figma**
 
-Con la tontería al final he escrito un readme jaja salu2
+## Mis proyectos actuales
+-  **ChoniGPT**: IA que te habla en Choni: [https://chonigpt.vercel.app/](https://chonigpt.vercel.app/)
+> Hecho usando Websockets en JS, SQL, [groq](https://groq.com/), otros endpoints del API en PHP y web usando React Router (antes usando remix) con HeroUI
+
+-  **Youtubed**: Descarga canciones de youtube (y pronto de spotify): [https://youtubedd.vercel.app/](https://youtubedd.vercel.app/)
+> Hecho usando flask (para poder usar youtube_dl), php, y React con HeroUI
+
+-  **ShortURL**: Acortador de URLs (típico): [https://short.clienturl.net/](https://short.clienturl.net/)
+Todo puro PHP y SQL
+
+También tengo algunos proyectos abandonados...
+
