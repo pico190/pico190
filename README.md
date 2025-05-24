@@ -21,7 +21,7 @@ Tengo que escribir un readme jaja (lo voy a hacer en español)
 
 ## Mis proyectos actuales
 -  **ChoniGPT**: IA que te habla en Choni: [https://chonigpt.vercel.app/](https://chonigpt.vercel.app/)
-> Hecho usando Websockets en JS, SQL, [groq](https://groq.com/), otros endpoints del API en PHP y web usando React Router (antes usando remix) con HeroUI
+> Hecho usando Websockets en JS, SQL, [groq](https://groq.com/), otros endpoints del API en PHP y web usando React Router (antes usando remix) con HeroUI, resend para los correos y una base de datos en servidores míos privados con MariaDB.
 
 -  **Youtubed**: Descarga canciones de youtube (y pronto de spotify): [https://youtubedd.vercel.app/](https://youtubedd.vercel.app/)
 > Hecho usando flask (para poder usar youtube_dl), php, y React con HeroUI
