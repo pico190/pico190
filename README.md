@@ -30,7 +30,7 @@ Todo puro PHP y SQL
 
 También tengo algunos proyectos abandonados...
 
-### Quién soy
+## Quién soy
 Soy un desarrollador fullstack menor de edad (ESO) anónimo que crea proyectos cuando no tiene que estudiar jajajaja.
 
 Me gustan las patatas.
