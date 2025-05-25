@@ -23,6 +23,9 @@ Tengo que escribir un readme jaja (lo voy a hacer en español)
 -  **ChoniGPT**: IA que te habla en Choni: [https://chonigpt.vercel.app/](https://chonigpt.vercel.app/)
 > Hecho usando Websockets en JS, SQL, [groq](https://groq.com/), otros endpoints del API en PHP y web usando React Router (antes usando remix) con HeroUI, resend para los correos y una base de datos en servidores míos privados con MariaDB.
 
+- **PicoSX**: Una especie de buscador que te redirige a Brave Search pero tiene bangs especiales (como !d para hacer una pregunta directamente desde el buscador a deepseek): [https://picosx.vercel.app/](https://picosx.vercel.app/).
+> Hecho usando React y PHP.
+
 -  **Youtubed**: Descarga canciones de youtube (y pronto de spotify): [https://youtubedd.vercel.app/](https://youtubedd.vercel.app/)
 > Hecho usando flask (para poder usar youtube_dl), php, y React con HeroUI
 
