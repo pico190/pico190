@@ -16,8 +16,8 @@ Tengo que escribir un readme jaja (lo voy a hacer en español)
 - **Electron**
 - **Svelte**
 - **Tailwind** (últimamente uso mucho **HeroUI**)
-- **HTML** (no es un lenguaje de programación 🤡☝️) y **JS vanilla** cuando se va la luz en toda España y no va `npx create vite@latest`
-- **Figma**
+- **HTML** (no es un lenguaje de programación 🤡☝️) y **JS vanilla** cuando se va la luz en toda España y `npx create vite@latest` no funciona.
+- **Figma** (creo que lo voy a dejar en esta sección)
 
 ## Mis proyectos actuales
 -  **ChoniGPT**: IA que te habla en Choni: [https://chonigpt.vercel.app/](https://chonigpt.vercel.app/)
