@@ -20,7 +20,13 @@ Tengo que escribir un readme jaja (lo voy a hacer en español)
 - **Figma** (creo que lo voy a dejar en esta sección)
 
 ## Mis proyectos actuales
--  **ChoniGPT**: IA que te habla en Choni: [https://chonigpt.vercel.app/](https://chonigpt.vercel.app/)
+- 👑 **Hokki**: Bot de IA: [https://hokki.shard.es/](https://hokki.shard.es/?referer=github)
+> Un bot de Discord que usa IA (gpt-4o) para responder a tus mensajes como si fuese otro usuario más, pero tambien puede hacer cosas de moderación, buscar en google, crear un monton de canales a la vez, responder a los mensajes privados...
+> Pronto tendrá moderación de mensajes super-configurable gratuita
+> Hecha usando Discord.js, Express.js, MariaDB, La API oficial de OpenAI, (y para la web React Router y ShadCN)
+> Puedes hacer que hokki te hable en andaluz, catalan, argentino, choni, gallego, entre otros.
+
+- **ChoniGPT**: IA que te habla en Choni (Medio-abandonado): [https://chonigpt.vercel.app/](https://chonigpt.vercel.app/?referer=github)
 > Hecho usando Websockets en JS, SQL, [groq](https://groq.com/), otros endpoints del API en PHP y web usando React Router (antes usando remix) con HeroUI, resend para los correos y una base de datos en servidores míos privados con MariaDB.
 
 - **PicoSX**: Una especie de buscador que te redirige a Brave Search pero tiene bangs especiales (como !d para hacer una pregunta directamente desde el buscador a deepseek): [https://picosx.vercel.app/](https://picosx.vercel.app/).
@@ -29,12 +35,13 @@ Tengo que escribir un readme jaja (lo voy a hacer en español)
 > Hecho usando Electron (el código está ahi) y cosas así
 
 -  **ShortURL**: Acortador de URLs (típico): [https://short.clienturl.net/](https://short.clienturl.net/)
->Todo puro PHP y SQL
+> Todo puro PHP y SQL
+
+### Mini proyectos
+Que no se cuando terminaré
+
+- [**HeroUI Icons**](https://herouicons.vercel.app/): Una web con los iconos del figma oficiales de [HeroUI](https://heroui.com). [Open-source](https://github.com/pico190/heroicons)
+- [**MD Editor**](https://picomdeditor.vercel.app/): Un editor de markdown con unas cuantas cosas guapas que tengo que terminar pero no se cuando lo voy a hacer. [Open-source](https://github.com/pico190/mdeditor)
 
 También tengo algunos proyectos abandonados...
-
-## Quién soy
-Soy un desarrollador fullstack menor de edad (ESO) anónimo que crea proyectos cuando no tiene que estudiar jajajaja.
-
-Me gustan las patatas.
 
