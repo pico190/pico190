@@ -34,7 +34,7 @@ Tengo que escribir un readme jaja (lo voy a hacer en español)
 - **BetterWhatsapp**: Cliente de Whatsapp para linux (pronto en windows) con tema personalizado entre otras cosas. [Descargar](https://github.com/pico190/betterwhatsapp/releases/tag/v1.4.5) | [Ver información](https://github.com/pico190/betterwhatsapp)
 > Hecho usando Electron (el código está ahi) y cosas así
 
--  **ShortURL**: Acortador de URLs (típico): [https://short.clienturl.net/](https://short.clienturl.net/)
+-  **link.shard.es**: Acortador de URLs (típico): [https://link.shard.es/](https://link.shard.es/)
 > Todo puro PHP y SQL
 
 ### Mini proyectos
