@@ -34,10 +34,10 @@ Tengo que escribir un readme jaja (lo voy a hacer en español)
 -  **link.shard.es**: Acortador de URLs (típico): [https://link.shard.es/](https://link.shard.es/)
 > Todo puro PHP y SQL
 
+
 ### Mini proyectos
 Que no se cuando terminaré
 
-- [**HeroUI Icons**](https://herouicons.vercel.app/): Una web con los iconos del figma oficiales de [HeroUI](https://heroui.com). [Open-source](https://github.com/pico190/heroicons)
 - [**MD Editor**](https://picomdeditor.vercel.app/): Un editor de markdown con unas cuantas cosas guapas que tengo que terminar pero no se cuando lo voy a hacer. [Open-source](https://github.com/pico190/mdeditor)
 
 También tengo algunos proyectos abandonados...
