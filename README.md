@@ -25,10 +25,8 @@ Tengo que escribir un readme jaja (lo voy a hacer en español)
 > Hecha usando Discord.js, Express.js, MariaDB, La API oficial de OpenAI, (y para la web React Router y ShadCN)
 > Puedes hacer que hokki te hable en andaluz, catalan, argentino, choni, gallego, entre otros.
 
-- **ChoniGPT**: IA que te habla en Choni (Medio-abandonado): [https://chonigpt.vercel.app/](https://chonigpt.vercel.app/?referer=github)
-> Hecho usando Websockets en JS, SQL, [groq](https://groq.com/), otros endpoints del API en PHP y web usando React Router (antes usando remix) con HeroUI, resend para los correos y una base de datos en servidores míos privados con MariaDB.
-
 - **PicoSX**: Una especie de buscador que te redirige a Brave Search pero tiene bangs especiales (como !d para hacer una pregunta directamente desde el buscador a deepseek): [https://picosx.vercel.app/](https://picosx.vercel.app/).
+> Esto pronto será sustituido por un nuevo buscador con bangs que estoy haciendo
 
 - **BetterWhatsapp**: Cliente de Whatsapp para linux (pronto en windows) con tema personalizado entre otras cosas. [Descargar](https://github.com/pico190/betterwhatsapp/releases/tag/v1.4.5) | [Ver información](https://github.com/pico190/betterwhatsapp)
 > Hecho usando Electron (el código está ahi) y cosas así
