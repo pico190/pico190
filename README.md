@@ -1,44 +1,63 @@
-# Un README
-
-Tengo que escribir un readme jaja (lo voy a hacer en español)
-
-## Qué cosas sé
-### BackEnd:
-- **PHP**
-- Express/Websockets con **JS**
-- **Python** (Django, Flask)
-- **Kotlin**/**Java** para Apps de móbil (no sabía en que categoría poner esto)
-
-### Frontend:
-- **Astro**
-- **React**
-- **React NATIVE**
-- **Electron**
-- **Svelte**
-- **Tailwind** (últimamente uso mucho **HeroUI**)
-- **Figma** (creo que lo voy a dejar en esta sección)
-
-## Mis proyectos actuales
-- 👑 **Hokki**: Bot de IA: [https://hokki.shard.es/](https://hokki.shard.es/?referer=github)
-> Un bot de Discord que usa IA (gpt-4o) para responder a tus mensajes como si fuese otro usuario más, pero tambien puede hacer cosas de moderación, buscar en google, crear un monton de canales a la vez, responder a los mensajes privados...
-> Pronto tendrá moderación de mensajes super-configurable gratuita
-> Hecha usando Discord.js, Express.js, MariaDB, La API oficial de OpenAI, (y para la web React Router y ShadCN)
-> Puedes hacer que hokki te hable en andaluz, catalan, argentino, choni, gallego, entre otros.
-
-- **PicoSX**: Una especie de buscador que te redirige a Brave Search pero tiene bangs especiales (como !d para hacer una pregunta directamente desde el buscador a deepseek): [https://picosx.vercel.app/](https://picosx.vercel.app/).
-> Esto pronto será sustituido por un nuevo buscador con bangs que estoy haciendo
-
-- **BetterWhatsapp**: Cliente de Whatsapp para linux (pronto en windows) con tema personalizado entre otras cosas. [Descargar](https://github.com/pico190/betterwhatsapp/releases/tag/v1.4.5) | [Ver información](https://github.com/pico190/betterwhatsapp)
-> Hecho usando Electron (el código está ahi) y cosas así
-
--  **link.shard.es**: Acortador de URLs (típico): [https://link.shard.es/](https://link.shard.es/)
-> Todo puro PHP y SQL
 
 
-### Mini proyectos
-Que no se cuando terminaré
+<h1 align="center">Sobre mí</h1>
+<p align="center">
+  <b>Fullstack developer</b> • Linux enjoyer • Haciendo bots y apps raras
+</p>
 
-- [**MD Editor**](https://picomdeditor.vercel.app/): Un editor de markdown con unas cuantas cosas guapas que tengo que terminar pero no se cuando lo voy a hacer. [Open-source](https://github.com/pico190/mdeditor)
+<p align="center">
+  <img src="https://img.shields.io/badge/Arch%20Linux-darkblue?style=for-the-badge&logo=arch-linux" />
+  <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/MariaDB-darkorange?style=for-the-badge&logo=mariadb" />
+</p>
 
-También tengo algunos proyectos abandonados...
+---
 
+## 🛠️ Tech Stack
+
+<h3 align="center">🔧 Backend</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php" />
+  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/Websockets-black?style=for-the-badge&logo=socketdotio" />
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask" />
+  <img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin" />
+</p>
+
+<h3 align="center"> 🎨 Frontend</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Astro-black?style=for-the-badge&logo=astro" />
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Electron-black?style=for-the-badge&logo=electron" />
+  <img src="https://img.shields.io/badge/Svelte-black?style=for-the-badge&logo=svelte" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+<hr>
+
+## 🚀 Proyectos Actuales
+
+| Proyecto | Descripción | Stack | Link |
+|----------|-------------|-------|------|
+| 👑 **Hokki** | Bot de Discord con IA (gpt-4o), moderación, búsqueda en Google, creación de canales y hasta puede hablar en andaluz, gallego, argentino o choni. | Discord.js • Express.js • MariaDB • React Router • ShadCN | [hokki.shard.es](https://hokki.shard.es/?referer=github) |
+| 🔍 **PicoSX** | Buscador con *bangs* especiales (!d para Deepseek, etc). | Next.js • Brave Search API | [picosx.vercel.app](https://picosx.vercel.app/) |
+| 💬 **BetterWhatsapp** | Cliente de Whatsapp para Linux (pronto Windows) con temas personalizados. | Electron | [Descargar](https://github.com/pico190/betterwhatsapp/releases/tag/v1.4.5) • [Info](https://github.com/pico190/betterwhatsapp) |
+| 🔗 **link.shard.es** | Acortador de URLs (el clásico pero hecho a mano). | PHP • SQL | [link.shard.es](https://link.shard.es/) |
+
+---
+
+## 🧪 Mini-proyectos
+
+- [**MD Editor**](https://picomdeditor.vercel.app/) → Editor de markdown con cositas guapas.  
+  [Repositorio open-source](https://github.com/pico190/mdeditor)
+
+> También tengo varios proyectos abandonados... como todo el mundo... supongo
+
+---
+
+## 📸 Screenshots / Demos
+*(Pronto)*
+
+---
