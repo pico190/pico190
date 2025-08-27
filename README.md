@@ -41,7 +41,7 @@
 
 | Proyecto | Descripción | Stack | Link |
 |----------|-------------|-------|------|
-| 👑 **Hokki** | Bot de Discord con IA (gpt-4o), moderación, búsqueda en Google, creación de canales y hasta puede hablar en andaluz, gallego, argentino o choni. | Discord.js • Express.js • MariaDB • React Router • ShadCN | [hokki.shard.es](https://hokki.shard.es/?referer=github) |
+| 👑 **Hokki** | Bot de Discord con IA (gpt-4o), moderación, búsqueda en Google, creación de canales y con dashboard personalizado | Discord.js • Express.js • MariaDB • React Router • ShadCN | [hokki.shard.es](https://hokki.shard.es/?referer=github) |
 | 🔍 **PicoSX** | Buscador con *bangs* especiales (!d para Deepseek, etc). | Next.js • Brave Search API | [picosx.vercel.app](https://picosx.vercel.app/) |
 | 💬 **BetterWhatsapp** | Cliente de Whatsapp para Linux (pronto Windows) con temas personalizados. | Electron | [Descargar](https://github.com/pico190/betterwhatsapp/releases/tag/v1.4.5) • [Info](https://github.com/pico190/betterwhatsapp) |
 | 🔗 **link.shard.es** | Acortador de URLs (el clásico pero hecho a mano). | PHP • SQL | [link.shard.es](https://link.shard.es/) |
@@ -58,6 +58,7 @@
 ---
 
 ## 📸 Screenshots / Demos
-*(Pronto)*
+![hokki.shard.es](https://github.com/pico190/pico190/blob/main/hokkipreview1.png?raw=true)
+
 
 ---
