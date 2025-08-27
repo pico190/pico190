@@ -57,8 +57,22 @@
 
 ---
 
-## 📸 Screenshots / Demos
-![hokki.shard.es](https://github.com/pico190/pico190/blob/main/hokkipreview1.png?raw=true)
-
+<h2 align="center">📸 Screenshots / Demos</h2>
+<p align="center">
+  <a href="https://hokki.shard.es/">
+    <img src="https://github.com/pico190/pico190/blob/main/hokkipreview1.png?raw=true" alt="hokki.shard.es" />
+  </a>
+</p>
 
 ---
+
+<h2 align="center">Redes sociales</h2>
+
+<p align="center">
+  <a href="">
+    <img src="https://img.shields.io/badge/pico190＿-black?style=for-the-badge&logo=discord" />
+  </a>
+  <a href="https://x.com/pico190_">
+    <img src="https://img.shields.io/badge/pico190＿-black?style=for-the-badge&logo=x" />
+  </a>
+</p>
