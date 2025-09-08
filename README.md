@@ -1,9 +1,7 @@
-
-
-<h1 align="center">Sobre mí</h1>
+<h1 align="center">About Me</h1>
 <p align="center">
-  <b>Fullstack developer</b> • Linux enjoyer • Haciendo bots y apps raras
-</p>
+  <b>Fullstack dev</b> • Linux enjoyer • Making random bots & apps
+</p> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Arch%20Linux-darkblue?style=for-the-badge&logo=arch-linux" />
@@ -37,23 +35,23 @@
 </p>
 <hr>
 
-## 🚀 Proyectos Actuales
+## 🚀 Current Projects
 
-| Proyecto | Descripción | Stack | Link |
+| Project | What it does | Stack | Link |
 |----------|-------------|-------|------|
-| 👑 **Hokki** | Bot de Discord con IA (gpt-4o), moderación, búsqueda en Google, creación de canales y con dashboard personalizado | Discord.js • Express.js • MariaDB • React Router • ShadCN | [hokki.shard.es](https://hokki.shard.es/?referer=github) |
-| 🔍 **PicoSX** | Buscador con *bangs* especiales (!d para Deepseek, etc). | Next.js • Brave Search API | [picosx.vercel.app](https://picosx.vercel.app/) |
-| 💬 **BetterWhatsapp** | Cliente de Whatsapp para Linux (pronto Windows) con temas personalizados. | Electron | [Descargar](https://github.com/pico190/betterwhatsapp/releases/tag/v1.4.5) • [Info](https://github.com/pico190/betterwhatsapp) |
-| 🔗 **link.shard.es** | Acortador de URLs (el clásico pero hecho a mano). | PHP • SQL | [link.shard.es](https://link.shard.es/) |
+| 👑 **Hokki** | Discord bot with AI (gpt-4o), moderation, Google search, channel creation & custom dashboard | Discord.js • Express.js • MariaDB • React Router • ShadCN | [hokki.shard.es](https://hokki.shard.es/?referer=github) |
+| 🔍 **PicoSX** | Search engine with special *bangs* (!d for Deepseek, etc). | Next.js • Brave Search API | [picosx.vercel.app](https://picosx.vercel.app/) |
+| 💬 **BetterWhatsapp** | Whatsapp client for Linux (Windows soon) with custom themes. | Electron | [Download](https://github.com/pico190/betterwhatsapp/releases/tag/v1.4.5) • [Info](https://github.com/pico190/betterwhatsapp) |
+| 🔗 **link.shard.es** | URL shortener (the classic, but homemade). | PHP • SQL | [link.shard.es](https://link.shard.es/) |
 
 ---
 
-## 🧪 Mini-proyectos
+## 🧪 Mini-projects
 
-- [**MD Editor**](https://picomdeditor.vercel.app/) → Editor de markdown con cositas guapas.  
-  [Repositorio open-source](https://github.com/pico190/mdeditor)
+- [**MD Editor**](https://picomdeditor.vercel.app/) → Markdown editor with some cool extras.  
+  [Open-source repo](https://github.com/pico190/mdeditor)
 
-> También tengo varios proyectos abandonados... como todo el mundo... supongo
+> Got a bunch of abandoned projects too... like everyone else... I guess.
 
 ---
 
@@ -66,7 +64,7 @@
 
 ---
 
-<h2 align="center">Redes sociales</h2>
+<h2 align="center">Socials</h2>
 
 <p align="center">
   <a href="">
