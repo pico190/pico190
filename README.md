@@ -39,7 +39,7 @@
 
 | Project | What it does | Stack | Link |
 |----------|-------------|-------|------|
-| 👑 **Hokki** | Discord bot with AI (gpt-4o), moderation, Google search, channel creation & custom dashboard | Discord.js • Express.js • MariaDB • React Router • ShadCN | [hokki.shard.es](https://hokki.shard.es/?referer=github) |
+| 👑 **Hokki** | Discord bot with AI (gpt-4o), moderation, Google search, channel creation & custom dashboard | Discord.js • Express.js • MariaDB • React Router • ShadCN | [www.hokki.app](https://www.hokki.app/?referer=github) |
 | 🔍 **PicoSX** | Search engine with special *bangs* (!d for Deepseek, etc). | Next.js • Brave Search API | [picosx.vercel.app](https://picosx.vercel.app/) |
 | 💬 **BetterWhatsapp** | Whatsapp client for Linux (Windows soon) with custom themes. | Electron | [Download](https://github.com/pico190/betterwhatsapp/releases/tag/v1.4.5) • [Info](https://github.com/pico190/betterwhatsapp) |
 | 🔗 **link.shard.es** | URL shortener (the classic, but homemade). | PHP • SQL | [link.shard.es](https://link.shard.es/) |
