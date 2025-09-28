@@ -39,7 +39,7 @@
 
 | Project | What it does | Stack | Link |
 |----------|-------------|-------|------|
-| 👑 **Hokki** | Discord bot with AI (gpt-4o), moderation, Google search, channel creation & custom dashboard | Discord.js • Express.js • MariaDB • React Router • ShadCN | [www.hokki.app](https://www.hokki.app/?referer=github) |
+| 👑 **Hokki** | Discord bot with AI (gpt-4o), moderation, Google search, channel creation & custom dashboard | Discord.js • Express.js • MariaDB • React Router • ShadCN | [www.hokki.app](https://www.hokki.app/?utm_source=github) |
 | 🔍 **PicoSX** | Search engine with special *bangs* (!d for Deepseek, etc). | Next.js • Brave Search API | [picosx.vercel.app](https://picosx.vercel.app/) |
 | 💬 **BetterWhatsapp** | Whatsapp client for Linux (Windows soon) with custom themes. | Electron | [Download](https://github.com/pico190/betterwhatsapp/releases/tag/v1.4.5) • [Info](https://github.com/pico190/betterwhatsapp) |
 | 🔗 **link.shard.es** | URL shortener (the classic, but homemade). | PHP • SQL | [link.shard.es](https://link.shard.es/) |
@@ -57,8 +57,8 @@
 
 <h2 align="center">📸 Screenshots / Demos</h2>
 <p align="center">
-  <a href="https://hokki.shard.es/">
-    <img src="https://github.com/pico190/pico190/blob/main/hokkipreview1.png?raw=true" alt="hokki.shard.es" />
+  <a href="https://hokki.app/">
+    <img src="https://github.com/pico190/pico190/blob/main/hokkipreview2.png?raw=true" alt="Hokki landing page v2" />
   </a>
 </p>
 
