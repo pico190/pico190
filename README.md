@@ -43,7 +43,7 @@
 | ⭐ **ExamWizard** [ALPHA] | An AI web made for studying. It's basically a chatgpt but with unlimited pdf uploads, and it can generate diagrams and much more things. | Websockets • Fastify • Betterauth • OpenRouter • MariaDB • React Router • ShadCN | [wizard.shard.es](https://wizard.shard.es/?utm_source=github) |
 | 💬 **BetterWhatsapp** | Whatsapp client for Linux (Windows soon) with custom themes. | Electron | [Download](https://github.com/pico190/betterwhatsapp/releases/tag/v1.4.5) • [Info](https://github.com/pico190/betterwhatsapp) |
 | 🔗 **link.shard.es** | URL shortener (the classic, but homemade). | PHP • SQL | [link.shard.es](https://link.shard.es/) |
-| 💀 ~~**Hokki**~~ | Multi-purpose discord bot: moderation, tickets, ai, utility plugins, a dashboard, etc. | ?? | [www.hokki.app](https://www.hokki.app/?utm_source=github) |
+| 🤖 ~~**Hokki**~~ | Multi-purpose discord bot: moderation, tickets, ai, utility plugins, a dashboard, etc. | ?? | [www.hokki.app](https://www.hokki.app/?utm_source=github) |
 
 ---
 
