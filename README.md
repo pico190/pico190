@@ -1,3 +1,10 @@
+<h1 align="center">DRAWO 1.0 BETA (RCC)</h1>
+<p align="center">I'm creating an alternative to Excalidraw/Figjam. You should give it a try!</p>
+<p align="center"><a href="https://github.com/pico190/drawo">github.com/pico190/drawo</a></p>
+<p align="center"><a href="https://drawo.shard.es/">drawo.shard.es</a></p>
+
+<hr>
+
 <h1 align="center">About Me</h1>
 <p align="center">
   <b>Fullstack dev</b> • Linux enjoyer • Making random bots & apps
