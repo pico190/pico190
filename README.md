@@ -46,18 +46,18 @@
 
 | Project | What it does | Stack | Link |
 |----------|-------------|-------|------|
-| 👑 **Drawo** [BETA] | Alternative to Excalidraw/Figjam/tldraw/miro/... [OPENSOURCE](https://github.com/pico190/drawo/) | Vite/React | [drawo.shard.es](https://drawo.shard.es/?utm_source=github) |
-| ⭐ **ExamWizard** [ALPHA] | An AI web made for studying. It's basically a chatgpt but with unlimited pdf uploads, and it can generate diagrams and much more things. | Websockets • Fastify • Betterauth • OpenRouter • MariaDB • React Router • ShadCN | [wizard.shard.es](https://wizard.shard.es/?utm_source=github) |
+| 👑 **Hokki** | Multi-purpose discord bot: moderation, tickets, ai, utility plugins, a dashboard, etc. |  | [www.hokki.app](https://www.hokki.app/?utm_source=github) |
+| 👑 **Hush** [BETA] | AI-based music for focus, creativity, studying, sleep, etc. |  | [hush.shard.es](https://hush.shard.es/?utm_source=github) |
+| 👑 **Drawo** [BETA] | Alternative to Excalidraw/Figjam/tldraw/miro/... [OPENSOURCE](https://github.com/pico190/drawo/) |  | [drawo.shard.es](https://drawo.shard.es/?utm_source=github) |
+| ⭐ **Anemone** [ALPHA] | AI that generates tests and quizzes for studying. (Also includes flashcards and more...) |  | Soon... |
 | 💬 **BetterWhatsapp** | Whatsapp client for Linux (Windows soon) with custom themes. | Electron | [Download](https://github.com/pico190/betterwhatsapp/releases/tag/v1.4.5) • [Info](https://github.com/pico190/betterwhatsapp) |
 | 🔗 **link.shard.es** | URL shortener (the classic, but homemade). | PHP • SQL | [link.shard.es](https://link.shard.es/) |
-| 🤖 ~~**Hokki**~~ | Multi-purpose discord bot: moderation, tickets, ai, utility plugins, a dashboard, etc. | ?? | [www.hokki.app](https://www.hokki.app/?utm_source=github) |
 
 ---
 
 ## 🧪 Mini-projects
 
-- [**MD Editor**](https://picomdeditor.vercel.app/) → Markdown editor with some cool extras.  
-  [Open-source repo](https://github.com/pico190/mdeditor)
+- [**MD Editor**](https://picomdeditor.vercel.app/) → Markdown editor with some cool extras.
 
 > Got a bunch of abandoned projects too... like everyone else... I guess.
 
